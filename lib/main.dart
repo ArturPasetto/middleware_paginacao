@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:middleware_paginacao/controller.dart';
-import 'package:middleware_paginacao/middlware.dart';
+import 'package:middleware_paginacao/middleware.dart';
 import 'package:middleware_paginacao/page_one.dart';
 import 'package:middleware_paginacao/page_three.dart';
 import 'package:middleware_paginacao/page_two.dart';
